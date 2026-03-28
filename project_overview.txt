@@ -1,0 +1,2 @@
+This project implements a claim processing system using Algorand blockchain.
+It ensures transparency, security, and fraud prevention.
